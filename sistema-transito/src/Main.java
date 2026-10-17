@@ -2,7 +2,7 @@
 
 ---------------------------------------------------------------
 | MENU ESTATÍSTICA                                             |
-| Estatísticas de acidentes em 2020                            |
+| Estatísticas de acidentes em 2025                            |
 | 1 - Cadastro Estatística                                     |
 | 2 - Consulta por quantidade de acidentes                     |
 | 3 - Consulta por estatísticas de acidentes                   |
