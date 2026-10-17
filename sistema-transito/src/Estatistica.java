@@ -16,5 +16,5 @@ public class Estatistica { // Classe Abstrata
         NomeCidade = NomeCidade;
         QtdAcidentes = QtdAcidentes;
     }
-    
+
 } // Fim Classe Estatistica
