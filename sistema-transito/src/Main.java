@@ -37,7 +37,7 @@ public class Main {
                     Estatísticas de acidentes em 2025:
                     1- Cadastro Estatística;
                     2- Consulta por quant. de acidentes;
-                    3- Consulta por estatísticas de acidentes;
+                    3- Consulta por maior e menor número de acidentes;
                     4- Cidades com quant. de acidentes acima da média das 10 cidades;
                     9- Clique aqui para finalizar a execução"""));
 
