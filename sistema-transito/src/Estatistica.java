@@ -12,9 +12,9 @@ public class Estatistica { // Classe Abstrata
     // Metodo Procedimento
     Estatistica (int IDCidade, String NomeCidade, int QtdAcidentes)
     {
-        IDCidade = IDCidade;
-        NomeCidade = NomeCidade;
-        QtdAcidentes = QtdAcidentes;
+        this.IDCidade = IDCidade;
+        this.NomeCidade = NomeCidade;
+        this.QtdAcidentes = QtdAcidentes;
     }
 
 } // Fim Classe Estatistica
